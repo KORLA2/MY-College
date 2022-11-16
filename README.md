@@ -1,2 +1,2 @@
 # MY-College
-Trying to build my collge website with react.js , AWS RDS,EC2 with mobile reponsiveness
+Trying to build mobile responsive my collge website with react.js , AWS RDS,EC2 ,S3 ,Material -UI
